@@ -69,6 +69,16 @@ nav a:hover {
     text-decoration: none;
     border-radius: 5px;
 }
+.hero {
+    background-image: url("../img/coffee-bg.jpg"); 
+    background-size: cover;     
+    background-position: center;  
+    background-repeat: no-repeat; 
+    color: white;             
+    text-align: center;
+    padding: 100px 20px;       
+}
+
 
 .cta-button:hover {
     background-color: #7e685b;
@@ -78,7 +88,28 @@ nav a:hover {
     padding: 100px 0;
     text-align: center;
 }
+.menu-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+}
 
+.menu-item {
+    background: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.menu-item img {
+    width: 200px;          
+    height: 200px;        
+    object-fit: cover;     
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
 .menu h2 {
     font-size: 30px;
     margin-bottom: 20px;
