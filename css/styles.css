@@ -1,4 +1,9 @@
 /* Reset some default styles */
+:root {
+    --card-bg: #fff;
+    --card-text: #29160b;
+
+}
 body, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
@@ -84,6 +89,49 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
+.card-container {
+margin: 50px auto;
+width: min(1100px, 95%);
+
+display: flex;
+gap: 1em;
+}
+
+.card-container .card{
+    flex: 1; /*Same size cards*/
+    padding: 2em;
+    border-radius: .5em;
+    background: var(--card-bg);
+    color: var(--card-text);
+    border: 5px solid var(--card-text);
+    text-align: center;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    /*<!-- flex-wrap: wrap;/*for tags with dynamic flow-->*/
+}
+.card-container button {
+    padding: 1em 3em;
+    font: inherit;
+    border-radius: .4em;
+    border: none;
+    background: var(--card-text);
+    color: var(--card-bg);
+}
+.card-container button:hover {
+    color: var(--card-bg);
+}
+.card-container .card p {/* p fills the space*/
+    flex-grow: 1;
+}
+.card span {
+    flex-wrap: wrap;
+}
+.card img {
+    width: auto;
+    height: 250px;
+}
 .about {
     padding: 100px 0;
     text-align: center;
