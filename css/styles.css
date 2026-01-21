@@ -2,6 +2,7 @@
 :root {
     --card-bg: #fff;
     --card-text: #29160b;
+    --button-hover: #ead184;
 
 }
 body, h1, h2, h3, p, ul, li {
@@ -51,7 +52,7 @@ nav a:hover {
 .hero {
     text-align: center;
     padding: 150px 0;
-    background-image: url('cafe.jpg');
+    background-image: url('img\cozycafe.jpg');
     background-size: cover;
     color: white;
 }
@@ -90,11 +91,11 @@ nav a:hover {
 }
 
 .card-container {
-margin: 50px auto;
-width: min(1100px, 95%);
+    margin: 50px auto;
+    width: min(1100px, 95%);
 
-display: flex;
-gap: 1em;
+    display: flex;
+    gap: 1em;
 }
 
 .card-container .card{
@@ -118,9 +119,11 @@ gap: 1em;
     border: none;
     background: var(--card-text);
     color: var(--card-bg);
+    transition: 0.3s;
 }
 .card-container button:hover {
-    color: var(--card-bg);
+    color: var(--card-text);
+    background: var(--button-hover);
 }
 .card-container .card p {/* p fills the space*/
     flex-grow: 1;
