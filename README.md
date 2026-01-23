@@ -37,15 +37,11 @@ Contacts linked in the page.
 ### |About the Authors :wave:
 
 <!-- ARNESTO PROFILE -->
-<<<<<<< HEAD
 <div align='center'><img alt="Profile Image" src="https://avatars.githubusercontent.com/u/206431058?s=400&u=315f6b05ac5ecf37c464dd8d144907c1ecac9056&v=4" width="150px" border-radius="50%">  
-=======
-<div align='center'><img alt="Profile Image" src="https://avatars.githubusercontent.com/u/206431058?s=400&u=315f6b05ac5ecf37c464dd8d144907c1ecac9056&v=4" style="width:150px; border-radius:50%;">  
->>>>>>> ed79197d134c64f7f59337b70d04930d60cf9736
 
 <strong>Name:Julius Marck Arnesto
 
-Email:<a>202380028@psu.palawan.edu.ph</a>
+Email:<a>julius.arnesto.1110@gmail.com</a>
 </strong>
 <div align='center' style='gap:10px;'>
 <!-- ACCOUNT LINKS -->
@@ -59,25 +55,14 @@ Email:<a>202380028@psu.palawan.edu.ph</a>
 </div>
 <br>
 <!-- MADIA PROFIEL -->
-<<<<<<< HEAD
 <div style="display:flex; flex-direction:column; align-items:center;"><img alt="Profile Image" src="https://avatars.githubusercontent.com/u/115959113?v=4" width="150px" border-radius="50%">  
 
 <strong>Name:Nexie Madia
-=======
-<div style="display:flex; flex-direction:column; align-items:center;"><img alt="Profile Image" src="https://avatars.githubusercontent.com/u/115959113?v=4" style="width:150px; border-radius:50%;">  
 
-<strong>
-Name:Nexie Madia
->>>>>>> ed79197d134c64f7f59337b70d04930d60cf9736
-
-Email:<a>202380028@psu.palawan.edu.ph</a>
+Email:<a>nexiemadia@gmail.com</a>
 </strong>
 <!-- ACCOUNT LINKS -->
-<<<<<<< HEAD
 <div align='center' style='gap:10px;'>
-=======
-<div  align='center' style=' gap:10px;'>
->>>>>>> ed79197d134c64f7f59337b70d04930d60cf9736
 <a href="https://www.facebook.com/nexiegh">
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" height="auto" width="60" alt="Facebook Icon"></img>
 </a>
