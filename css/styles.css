@@ -100,7 +100,7 @@ nav a:hover {
 
 .card-container .card{
     flex: 1; /*Same size cards*/
-    padding: 2em;
+
     border-radius: .5em;
     background: var(--card-bg);
     color: var(--card-text);
@@ -109,8 +109,12 @@ nav a:hover {
     
     display: flex;
     flex-direction: column;
-    gap: 1em;
+    
     /*<!-- flex-wrap: wrap;/*for tags with dynamic flow-->*/
+}
+.card div {
+    padding: .8em;
+    gap: 1em;
 }
 .card-container button {
     padding: 1em 3em;
@@ -132,8 +136,8 @@ nav a:hover {
     flex-wrap: wrap;
 }
 .card img {
-    width: auto;
-    height: 250px;
+    max-width: 100%;
+    height: auto;
 }
 .about {
     padding: 100px 0;
