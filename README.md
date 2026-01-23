@@ -15,40 +15,64 @@ A modern website for Cozy Cup Caf&eacute; where you can chill and stay cozy. Thi
 ###  |Screen Capture
 ##### Front 
 
+short description here...
 <img src="img/front_page.png" alt='Front Page'>
 
 ##### Menu 
+
+short description here...
 <img src="img/menu.png" alt='Menu Page'>
 
 ##### About Us
+
+short description here...
 <img src="img/about_us.png" alt='About Us Page'>
 
 ##### Contacts Us
+
+short description here...
 <img src="img/contact_us.png" alt='Contact Page'>
 
 
 ### |About the Authors
 
-<div style="display:flex; gap:20px">
+<!-- ARNESTO PROFILE -->
 <div style="display:flex; flex-direction:column; align-items:center;"><img alt="Profile Image" src="https://avatars.githubusercontent.com/u/206431058?s=400&u=315f6b05ac5ecf37c464dd8d144907c1ecac9056&v=4" style="width:150px; border-radius:50%;">
-Name: Julius Marck Arnesto
+<strong>Name:Julius Marck Arnesto
 
 
-Email:<a href="202380028@psu.palawan.edu.ph">202380028@psu.palawan.edu.ph</a>
+Email:<a>202380028@psu.palawan.edu.ph</a>
+</strong><div style='display:flex; gap:10px; align-items:center;'>
+<!-- ACCOUNT LINKS -->
+<a href="https://www.facebook.com/julius.arnesto.14">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" height="auto" width="60" alt="Facebook Icon"></img>
+</a>
+
+<a href="https://github.com/JuliusMarckArnesto">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" height="auto" width="60" alt="Github Icon"></img>
+</a>
 </div>
+<br>
+<!-- MADIA PROFIEL -->
 <div style="display:flex; flex-direction:column; align-items:center;"><img alt="Profile Image" src="https://avatars.githubusercontent.com/u/115959113?v=4" style="width:150px; border-radius:50%;">
-Name: Nexie Madia
+<strong>
+Name:Nexie Madia
 
-
-Email:<a href="202380028@psu.palawan.edu.ph">202380028@psu.palawan.edu.ph</a>
-</div>
-</div>    
+Email:<a>202380028@psu.palawan.edu.ph</a>
+</strong>
+<!-- ACCOUNT LINKS -->
+<div style='display:flex; gap:10px; align-items:center;'>
+<a href="https://www.facebook.com/nexiegh">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" height="auto" width="60" alt="Facebook Icon"></img>
+</a>
+<a href="https://github.com/NexieMadia23">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" height="auto" width="60" alt="Github Icon"></img>
+</a>
+</div>  
 
 
 <div style='display:flex; gap:10px; width:1000px;'>
-<div style='display:flex; gap:10px; align-items:center;'>
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" height="auto" width="60" alt="Facebook Icon"></img>
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" height="auto" width="60" alt="Github Icon"></img>
+
 </div>
 </div>
 
