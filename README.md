@@ -1,6 +1,6 @@
 # :coffee: COZY CUP CAF&Eacute;
 ___
-###  |Project Description
+###  |Project Description :gift:
 A modern website for Cozy Cup Caf&eacute; where you can chill and stay cozy. This is not just a menu it is a digital experiences that provides the atmosphere from the shop to your digital device.
 
 
@@ -12,29 +12,29 @@ A modern website for Cozy Cup Caf&eacute; where you can chill and stay cozy. Thi
 * **Contact Us**: Find contacts
 
 
-###  |Screen Capture
+###  |Screen Capture :memo:
 ##### Front 
 
-short description here...
 <img src="img/front_page.png" alt='Front Page'>
+Explore the inside of the cafe and navigate through top menu bar.
 
 ##### Menu 
 
-short description here...
 <img src="img/menu.png" alt='Menu Page'>
+The order the availble menu.
 
 ##### About Us
 
-short description here...
 <img src="img/about_us.png" alt='About Us Page'>
+Get to know the cafe.
 
 ##### Contacts Us
 
-short description here...
 <img src="img/contact_us.png" alt='Contact Page'>
+Contacts linked in the page.
 
 
-### |About the Authors
+### |About the Authors :wave:
 
 <!-- ARNESTO PROFILE -->
 <div style="display:flex; flex-direction:column; align-items:center;"><img alt="Profile Image" src="https://avatars.githubusercontent.com/u/206431058?s=400&u=315f6b05ac5ecf37c464dd8d144907c1ecac9056&v=4" style="width:150px; border-radius:50%;">
