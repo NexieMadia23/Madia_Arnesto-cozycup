@@ -39,7 +39,7 @@ Contacts linked in the page.
 <!-- ARNESTO PROFILE -->
 <div align='center'><img alt="Profile Image" src="https://avatars.githubusercontent.com/u/206431058?s=400&u=315f6b05ac5ecf37c464dd8d144907c1ecac9056&v=4" width="150px" border-radius="50%">  
 
-<strong>Name:Julius Marck Arnesto
+<strong>Name: Julius Marck Arnesto
 
 Email:<a>julius.arnesto.1110@gmail.com</a>
 </strong>
@@ -54,12 +54,12 @@ Email:<a>julius.arnesto.1110@gmail.com</a>
 </a>
 </div>
 <br>
-<!-- MADIA PROFIEL -->
+<!-- MADIA PROFILE -->
 <div style="display:flex; flex-direction:column; align-items:center;"><img alt="Profile Image" src="https://avatars.githubusercontent.com/u/115959113?v=4" width="150px" border-radius="50%">  
 
-<strong>Name:Nexie Madia
+<strong>Name: Norelyn Madia
 
-Email:<a>nexiemadia@gmail.com</a>
+Email:<a>nyx828174@gmail.com</a>
 </strong>
 <!-- ACCOUNT LINKS -->
 <div align='center' style='gap:10px;'>
